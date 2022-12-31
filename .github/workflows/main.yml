@@ -1,4 +1,4 @@
-name: Main
+name: SpectralOps
 on:
   workflow_dispatch:
   push:
