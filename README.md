@@ -3,6 +3,7 @@
 React app dashboard to import vehicle sales and view analytics
 This application is protected by Auth0 auth provider.
 
+Testing
 ## HOW TO RUN
 
 1. A .env file is provided separately via email. Put that .env file inside "ClientApp" folder.
